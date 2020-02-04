@@ -1,15 +1,14 @@
-﻿{
-	"GoodreadsResponse": {
-		"Request": {
-			"authentication": "true",
-			"key": {
-				"__cdata": " F1U1H1T4f2nafqOSUlUxyg "
-			},
-			"method": {
-				"__cdata": " search_search "
-			}
+﻿ {
+	"Request": {
+		"authentication": "true",
+		"key": {
+			"__cdata": " F1U1H1T4f2nafqOSUlUxyg "
 		},
-		"search": {
+		"method": {
+			"__cdata": " search_search "
+		}
+	},
+	"search": {
 			"query": {
 				"__cdata": " Ender's Game "
 			},
@@ -982,6 +981,5 @@
 					}
 				]
 			}
-		}
 	}
 }
